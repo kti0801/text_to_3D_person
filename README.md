@@ -69,8 +69,15 @@
 
 
 ## 3D Model Avatar
+* StarGAN
+* 3DMM
+* DECA
+
+![Input_stage](https://github.com/LeeSY99/text_to_3D_person/assets/101381138/0ac81b2f-67f8-4879-bdc2-eef50a3fac01)
+![StarGAN&DECA](https://github.com/LeeSY99/text_to_3D_person/assets/101381138/07d70693-abd5-4dd6-970f-3579f783525f)
 ![3D model avatar](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/105176de-3fd5-43fa-9387-e5cf128c6a08)
 
+* Text Classfication (KoElectra)
 
 
 ## 구현 영상
