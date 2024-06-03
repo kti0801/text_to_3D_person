@@ -16,8 +16,17 @@
 
 ![분류](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/9c5c23c0-7a53-49d0-9591-c4e1256faad8)
 
+* Data Augmentation: Used [face-pose augmentation](https://github.com/hhj1897/face_pose_augmentation)
+
+![Aug_example](https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b7621711-f780-46ef-87b1-33ed8d7ad176)
+
+
 ### 3D Model Avatar
 ![3dmodelavatar](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/f1389f72-f351-404f-b8cf-1b63fe250197)
+
+### 테스트 영상
+
+<video controls src='https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b265ee8c-3347-4751-a19b-a4416c6fc6b0'>
 
 
 ### 프로젝트 PPT 목차
