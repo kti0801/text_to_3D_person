@@ -15,8 +15,50 @@
   * Test Data: 약 1200장
 
 ![분류](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/9c5c23c0-7a53-49d0-9591-c4e1256faad8)
+<br/>
+<br/>
 
-#### Data Augmentation
+<div align=left><h1>📚 STACKS</h1></div>
+
+<div align=left>
+ <body>
+  Environment
+  <p>
+   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> 
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </p>
+ </body>
+  <br>
+ 
+<div align=left>
+ <body>
+  Development
+  <p>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
+   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white"> 
+  </p>
+ </body>
+  <br>
+ 
+<div align=left>
+ <body>
+  <p>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  </p>
+ </body>
+  <br>
+ 
+## 주요 모델 기술
+* DECA
+  #### &rightarrow; 얼굴표정, 주름, 세부사항을 추출할 수 있어 표정 표현에 좋기에 모델 선정
+<br/>
+※ 참고문헌 https://chickenrush.tistory.com/16
+<br/>
+
+## Data Augmentation
 * face-detection: [ibug.face_detection](https://github.com/hhj1897/face_detection)
 * face-alignment: [ibug.face_alignment](https://github.com/hhj1897/face_alignment)
 * face-augmentation: [ibug.face_pose_augmentation](https://github.com/hhj1897/face_pose_augmentation)
@@ -24,31 +66,10 @@
 ![Aug_example](https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b7621711-f780-46ef-87b1-33ed8d7ad176)
 
 
-### 3D Model Avatar
+## 3D Model Avatar
 ![3dmodelavatar](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/f1389f72-f351-404f-b8cf-1b63fe250197)
 
-### 구현 영상
+## 구현 영상
 
 <video controls src='https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b265ee8c-3347-4751-a19b-a4416c6fc6b0'>
 
-
-### 프로젝트 PPT 목차
-01 프로젝트 소개
-
-02 기획 의도
-
-03 타켓 고객 (Persona)
-
-04 DATASET
-
-05 프로젝트 설계 및 구현
-
-06 INPUT
-
-07 프로젝트 결과
-
-08 도전과제 및 해결방안
-
-09 향후 계획 및 발전 방향
-
-10 참고 문헌
