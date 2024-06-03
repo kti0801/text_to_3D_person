@@ -27,7 +27,7 @@
 ### 3D Model Avatar
 ![3dmodelavatar](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/f1389f72-f351-404f-b8cf-1b63fe250197)
 
-### 테스트 영상
+### 구현 영상
 
 <video controls src='https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b265ee8c-3347-4751-a19b-a4416c6fc6b0'>
 
