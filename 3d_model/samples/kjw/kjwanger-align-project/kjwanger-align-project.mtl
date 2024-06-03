@@ -1,0 +1,3 @@
+newmtl FaceTexture
+map_Kd kjwanger-align-project.png
+disp avatar/kjwanger-align-project/kjwanger-align-project_normals.png
