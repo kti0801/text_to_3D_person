@@ -75,8 +75,8 @@
 
 ## 구현 영상
 
-<video controls src='https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b265ee8c-3347-4751-a19b-a4416c6fc6b0'>
+<video controls src='https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b265ee8c-3347-4751-a19b-a4416c6fc6b0'></video>
 
 ## 개선 및 보완 방향
 * 더 다양한 감정 표현을 위해 GAN 모델을 개선하고, 실시간으로 감정을 분석하고 반영하는 기능을 추가할 계획
-* 더 자연스러운 3D모델 생성 시도.
+* 더 자연스러운 3D모델 발전.
