@@ -69,7 +69,8 @@
 
 
 ## 3D Model Avatar
-![3dmodelavatar](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/f1389f72-f351-404f-b8cf-1b63fe250197)
+![3D model avatar](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/41e169a9-8949-4efa-9557-514dbec86702)
+
 
 ## 구현 영상
 
