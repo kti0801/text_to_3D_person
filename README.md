@@ -8,8 +8,9 @@
 
 #### 프로젝트 기간: (2024) 5월 9일(목) ~ 6월 5일(수) (약 4주)
 #### 팀원: 김토일, 심재은, 이상윤, 허영민
+<br/>
 
-* 데이터 (출처) ESTSOFT 제공
+## 데이터 (출처) ESTSOFT 제공
   * Train Data : 약 6000장
   * Validation Data: 약 1200장
   * Test Data: 약 1200장
@@ -19,12 +20,21 @@
 * Data Augmentation: Used [face-pose augmentation](https://github.com/hhj1897/face_pose_augmentation)
 
 ![Aug_example](https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b7621711-f780-46ef-87b1-33ed8d7ad176)
+<br/>
 
+## 주요 모델 기술
+* DECA
+  #### &rightarrow; 얼굴표정, 주름, 세부사항을 추출할 수 있어 표정 표현에 좋기에 모델 선정
+<br/>
+※ 참고문헌 https://chickenrush.tistory.com/16
+<br/>
+<br/>
 
-### 3D Model Avatar
+## 3D Model Avatar
 ![3dmodelavatar](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/f1389f72-f351-404f-b8cf-1b63fe250197)
+<br/>
 
-### 테스트 영상
+## 테스트 영상
 
 <video controls src='https://github.com/LeeSY99/text_to_3D_person/assets/101381138/b265ee8c-3347-4751-a19b-a4416c6fc6b0'>
 
