@@ -10,6 +10,7 @@
 #### 팀원: 김토일, 심재은, 이상윤, 허영민
 
 🧑‍🤝‍🧑 멤버구성 및 역할
+
 김토일: Modeling, preprocessingcrop & seg, Presentation, preprocessing, Presentation, blender, PPT
 
 심재은: EDA, Modeling, preprocessingcrop & seg, Presentation, PPT, 서기
