@@ -9,10 +9,15 @@
 #### 프로젝트 기간: (2024) 5월 9일(목) ~ 6월 5일(수) (약 4주)
 #### 팀원: 김토일, 심재은, 이상윤, 허영민
 
-* 데이터 (출처) ESTSOFT 제공
-  * Train Data : 약 6000장
-  * Validation Data: 약 1200장
-  * Test Data: 약 1200장
+🧑‍🤝‍🧑 멤버구성 및 역할
+김토일: Modeling, preprocessingcrop & seg, Presentation, preprocessing, Presentation, blender, PPT
+
+심재은: EDA, Modeling, preprocessingcrop & seg, Presentation, PPT, 서기
+
+이상윤: EDA, Modeling, preprocessingcrop & seg, augmentation, PPT, Model ensemble
+
+허영민: EDA, Modeling, preprocessingcrop & seg, Model ensemble, PPT, 서기
+
 
 ![분류](https://github.com/LeeSY99/text_to_3D_person/assets/74341916/9c5c23c0-7a53-49d0-9591-c4e1256faad8)
 <br/>
