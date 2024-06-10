@@ -12,7 +12,7 @@
 
 🧑‍🤝‍🧑 멤버구성 및 역할
 
-김토일: Modeling, preprocessingcrop & seg, Presentation, Presentation, blender, Deca, stargan, PPT
+김토일: Modeling, preprocessingcrop & seg, Presentation, Presentation, blender, Deca, stargan, koelectra-base, PPT
 
 심재은: EDA, Modeling, preprocessingcrop & seg, Presentation, PPT, 서기
 
